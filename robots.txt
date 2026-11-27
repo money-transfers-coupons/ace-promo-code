@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://money-transfers-coupons.github.io/ace-promo-code/sitemap.xml
